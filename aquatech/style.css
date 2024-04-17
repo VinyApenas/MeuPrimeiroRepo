@@ -41,6 +41,11 @@ border-bottom: 3px solid #32b9cb;
     
 }
 
+.header ul #aqui {
+    font-weight: 1000;
+    color: #32b9cd;
+}
+
 .banner .container{
     justify-content: center;
     align-items: center;
@@ -104,12 +109,12 @@ border-bottom: 3px solid #32b9cb;
 
 .card {
     background-color: white;
+    align-items: center;
     display: flex;
     flex-direction: column;
     height: 300px;
     width: 300px;
     border-radius: 10px;
-    border: 2px solid #32b9cb;
 }
 
 .card h2 {
